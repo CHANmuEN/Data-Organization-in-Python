@@ -7,3 +7,4 @@ data = pd.read_csv('C:/0413銷售資料.txt', encoding='utf-8',sep='\s+')
 #%%
 data.to_csv('D:/123.csv', encoding='utf_8_sig',index=0)
 #%%
+
