@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+
 #%%
 data = pd.read_csv('C:/0413銷售資料.txt', encoding='utf-8',sep='\s+') 
 #擷取 astype新增col並轉乘string形式
